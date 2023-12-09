@@ -4,3 +4,4 @@
 # 3 marks for each question in section 3.
 # To access the test, simply press run!
 # Tips: Do not enter non-numerical values into the input box!
+# To run the test, simply open the ipynb file and press run!
